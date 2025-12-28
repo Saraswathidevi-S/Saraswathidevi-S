@@ -8,10 +8,9 @@
 ---
 
 # 💫 About Me:
-Curious and driven learner exploring **Cybersecurity and Web Security**, with a strong foundation in **MERN Stack and backend development**.  
-I enjoy building secure, scalable applications and automating workflows using **n8n, APIs, Docker, and MongoDB**.  
-Passionate about continuous learning, problem-solving, and applying security best practices in real-world projects.  
-🎯 Actively seeking opportunities as a **Software Developer** or **Cybersecurity Fresher**.
+- Learning Cybersecurity & Web Security
+- Experience in MERN Stack & Backend Development
+- Working with n8n, APIs, MongoDB
 
 ---
 
@@ -42,7 +41,6 @@ Passionate about continuous learning, problem-solving, and applying security bes
 ## 🌱 Currently Learning
 - Advanced API Security & Web Vulnerabilities  
 - Secure Authentication & Authorization (JWT, OAuth)  
-- Dockerized application security  
 - Linux for security & backend operations  
 
 ---
@@ -55,17 +53,11 @@ Passionate about continuous learning, problem-solving, and applying security bes
 ---
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
