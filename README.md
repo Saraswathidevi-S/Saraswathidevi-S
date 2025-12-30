@@ -71,3 +71,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=Saraswathidevi-S&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Support via Darsh](https://img.shields.io/badge/Support-devi-a855f7?style=for-the-badge&logo=ko-fi&logoColor=black)](https://darsh-2026.web.app)
+
